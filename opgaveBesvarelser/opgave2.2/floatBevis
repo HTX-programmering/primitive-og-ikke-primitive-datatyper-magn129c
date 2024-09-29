@@ -1,8 +1,0 @@
-void setup() {
-  float floatMin = -Float.MAX_VALUE;
-  float floatMax = Float.MAX_VALUE;
-  
-  println("float:");
-  println("Min: " + floatMin);
-  println("Max: " + floatMax);
-}
