@@ -1,8 +1,0 @@
-void setup() {
-  char charMin = Character.MIN_VALUE;
-  char charMax = Character.MAX_VALUE;
-  
-  println("char:");
-  println("Min: " + (int)charMin);
-  println("Max: " + (int)charMax);
-}
