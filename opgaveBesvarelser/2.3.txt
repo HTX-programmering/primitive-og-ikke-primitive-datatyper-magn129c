@@ -1,0 +1,4 @@
+Forskellen på de 2 datatyper er antallet af decimaler, så altså en slags afrunding.
+float med sqrt(2):1.4142135
+Double med sqrt(2):1.4142135381698608
+Vi kan se her at float er afrundet efter 7 decimaler, hvor double bliver ved indtil 16 decimaler.
