@@ -1,8 +1,8 @@
-int num;
-
-for(int i = 0; i<125; i++) {
-  num = (int)pow(2, i);
+void setup() {
+  int intMin = Integer.MIN_VALUE;
+  int intMax = Integer.MAX_VALUE;
   
-  System.out.println(num); // Den vil blive ved med at outputte 2147483647, da den ikke kan komme længere op.
-  
+  println("int:");
+  println("Min: " + intMin);
+  println("Max: " + intMax);
 }
